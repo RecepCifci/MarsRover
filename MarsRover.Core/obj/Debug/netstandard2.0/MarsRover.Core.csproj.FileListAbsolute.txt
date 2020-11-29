@@ -1,0 +1,8 @@
+C:\Users\rciftci\source\repos\MarsRover\MarsRover.Core\bin\Debug\netstandard2.0\MarsRover.Core.deps.json
+C:\Users\rciftci\source\repos\MarsRover\MarsRover.Core\bin\Debug\netstandard2.0\MarsRover.Core.dll
+C:\Users\rciftci\source\repos\MarsRover\MarsRover.Core\bin\Debug\netstandard2.0\MarsRover.Core.pdb
+C:\Users\rciftci\source\repos\MarsRover\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.AssemblyInfoInputs.cache
+C:\Users\rciftci\source\repos\MarsRover\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.AssemblyInfo.cs
+C:\Users\rciftci\source\repos\MarsRover\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.csproj.CoreCompileInputs.cache
+C:\Users\rciftci\source\repos\MarsRover\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.dll
+C:\Users\rciftci\source\repos\MarsRover\MarsRover.Core\obj\Debug\netstandard2.0\MarsRover.Core.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x19MJXt6SAcmImZDY1if7XtKZQYF9YL+w9nMOvSBFyYrXQSzwZLHVkTDtuv8tWaO19seoPNB16eT/9+DGOi4AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rciftci\\source\\repos\\MarsRover\\MarsRover.BusinessLayer\\MarsRover.BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rciftci\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rciftci\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

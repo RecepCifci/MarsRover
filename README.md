@@ -25,6 +25,7 @@ Process list should be entered with only letters. Letter should be only "R", "L"
   <li>L: spin 90 degrees left</li>
   <li>M: move forward one grid point, and maintain the same heading</li>
 </ol>
+
 ## Example
 <p><img src="https://github.com/RecepCifci/MarsRover/blob/main/example.png" alt="foo" title="title" /></p>
 

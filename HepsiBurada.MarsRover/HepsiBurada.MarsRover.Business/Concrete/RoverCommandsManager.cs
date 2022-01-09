@@ -3,10 +3,6 @@ using HepsiBurada.MarsRover.Core;
 using HepsiBurada.MarsRover.Core.Abstract;
 using HepsiBurada.MarsRover.Core.Concrete;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using static HepsiBurada.MarsRover.Core.Enums;
 
 namespace HepsiBurada.MarsRover.Business.Concrete

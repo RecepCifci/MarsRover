@@ -2,10 +2,6 @@
 using HepsiBurada.MarsRover.Core;
 using HepsiBurada.MarsRover.Core.Abstract;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using static HepsiBurada.MarsRover.Core.Enums;
 
 namespace HepsiBurada.MarsRover.Business.Concrete
@@ -15,13 +11,13 @@ namespace HepsiBurada.MarsRover.Business.Concrete
         public IRover Rover { get; set; }
         public IRoverCommandsManager RoverCommandsManager { get; set; }
 
-        public bool CheckPositionInputIsValid(string roverPositionStr)
+        public bool CheckPositionInputIsInvalid(string roverPositionStr)
         {
-            if (string.IsNullOrEmpty(roverPositionStr)) return false;
+            if (string.IsNullOrEmpty(roverPositionStr)) return true;
 
-            var roverCoordinate = roverPositionStr.Split(' ');
+            var roverCoordinate = roverPositionStr.Trim().Split(' ');
 
-            if (roverCoordinate.Length != 3) return false;
+            if (roverCoordinate.Length != 3) return true;
 
             this.Rover.Position.CoordinateX = Convert.ToInt32(roverCoordinate[0]);
             this.Rover.Position.CoordinateY = Convert.ToInt32(roverCoordinate[1]);
@@ -39,11 +35,11 @@ namespace HepsiBurada.MarsRover.Business.Concrete
                 default: throw new Exception(Messages.Error.InvalidDirection);
             }
 
-            return true;
+            return false;
         }
-        public bool CheckCommandInputIsValid(string roverCommandStr)
+        public bool CheckCommandInputIsInvalid(string roverCommandStr)
         {
-            return !String.IsNullOrEmpty(roverCommandStr);
+            return String.IsNullOrEmpty(roverCommandStr);
         }
 
         public void CheckRoverIsAtValidGridBoundaries()

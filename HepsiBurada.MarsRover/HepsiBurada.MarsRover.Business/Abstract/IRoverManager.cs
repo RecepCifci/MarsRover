@@ -1,9 +1,4 @@
 ﻿using HepsiBurada.MarsRover.Core.Abstract;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HepsiBurada.MarsRover.Business.Abstract
 {
@@ -11,8 +6,8 @@ namespace HepsiBurada.MarsRover.Business.Abstract
     {
         IRover Rover { get; set; }
         IRoverCommandsManager RoverCommandsManager { get; set; }
-        bool CheckPositionInputIsValid(string roverStr);
-        bool CheckCommandInputIsValid(string roverCommandStr);
+        bool CheckPositionInputIsInvalid(string roverStr);
+        bool CheckCommandInputIsInvalid(string roverCommandStr);
         void CheckRoverIsAtValidGridBoundaries();
     }
 }

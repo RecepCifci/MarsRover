@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HepsiBurada.MarsRover.Core
+﻿namespace HepsiBurada.MarsRover.Core
 {
     public static class Messages
     {
@@ -18,7 +12,9 @@ namespace HepsiBurada.MarsRover.Core
         }
         public static class Error
         {
-            public static string ErrorPlateauCoordinates => "Please enter Valid Coordinates";
+            public static string ErrorPlateauCoordinates => "Please enter Valid Plateau Coordinates";
+            public static string ErrorRoverPosition => "Please enter Valid Rover Position";
+            public static string ErrorRoverCommands => "Please enter Valid Rover Commands";
             public static string InvalidDirection => "Please enter Valid Direction";
             public static string InvalidMovement => "Please enter Valid Movement";
             public static string OutOfPlateau => "Rover is Out of plateau";

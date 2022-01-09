@@ -31,5 +31,19 @@ namespace HepsiBurada.MarsRover.Business.Concrete
 
             return true;
         }
+        public void Process()
+        {
+            foreach (var roverManager in RoverManagerList)
+            {
+                roverManager.RoverCommandsManager.Proceed();
+            }
+        }
+        public void Print()
+        {
+            foreach (var roverManager in RoverManagerList)
+            {
+                Console.WriteLine($"{roverManager.Rover.Position.CoordinateX} {roverManager.Rover.Position.CoordinateY} {roverManager.Rover.Position.Direction.ToString().Substring(0, 1)}");
+            }
+        }
     }
 }

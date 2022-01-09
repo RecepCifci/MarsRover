@@ -12,5 +12,7 @@ namespace HepsiBurada.MarsRover.Business.Abstract
         IPlateau Plateau { get; set; }
         List<IRoverManager> RoverManagerList { get; set; }
         bool CheckInputIsValid(string platenauStr);
+        void Process();
+        void Print();
     }
 }

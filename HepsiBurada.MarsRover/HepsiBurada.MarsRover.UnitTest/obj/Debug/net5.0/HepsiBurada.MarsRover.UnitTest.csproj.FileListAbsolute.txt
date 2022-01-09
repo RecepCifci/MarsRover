@@ -98,3 +98,8 @@ C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.UnitTest\obj\Debug\net5.0\HepsiBurada.MarsRover.UnitTest.pdb
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.UnitTest\obj\Debug\net5.0\HepsiBurada.MarsRover.UnitTest.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.UnitTest\obj\Debug\net5.0\HepsiBurada.MarsRover.UnitTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.UnitTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.UnitTest\bin\Debug\net5.0\HepsiBurada.MarsRover.Business.dll
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.UnitTest\bin\Debug\net5.0\HepsiBurada.MarsRover.Core.dll
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.UnitTest\bin\Debug\net5.0\HepsiBurada.MarsRover.Business.pdb
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.UnitTest\bin\Debug\net5.0\HepsiBurada.MarsRover.Core.pdb

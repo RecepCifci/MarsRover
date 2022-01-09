@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "HepsiBurada.MarsRover.UnitTest/1.0.0": {
         "dependencies": {
+          "HepsiBurada.MarsRover.Business": "1.0.0",
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "coverlet.collector": "3.0.2",
           "xunit": "2.4.1",
@@ -1088,7 +1089,20 @@
           }
         }
       },
-      "xunit.runner.visualstudio/2.4.3": {}
+      "xunit.runner.visualstudio/2.4.3": {},
+      "HepsiBurada.MarsRover.Business/1.0.0": {
+        "dependencies": {
+          "HepsiBurada.MarsRover.Core": "1.0.0"
+        },
+        "runtime": {
+          "HepsiBurada.MarsRover.Business.dll": {}
+        }
+      },
+      "HepsiBurada.MarsRover.Core/1.0.0": {
+        "runtime": {
+          "HepsiBurada.MarsRover.Core.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -1740,6 +1754,16 @@
       "sha512": "sha512-kZZSmOmKA8OBlAJaquPXnJJLM9RwQ27H7BMVqfMLUcTi9xHinWGJiWksa3D4NEtz0wZ/nxd2mogObvBgJKCRhQ==",
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    },
+    "HepsiBurada.MarsRover.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HepsiBurada.MarsRover.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

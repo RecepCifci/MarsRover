@@ -59,7 +59,9 @@ C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.ConsoleApplication\bin\Debug\net5.0\System.IO.Pipelines.dll
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.ConsoleApplication\bin\Debug\net5.0\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.ConsoleApplication\bin\Debug\net5.0\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.ConsoleApplication\bin\Debug\net5.0\HepsiBurada.MarsRover.Business.dll
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.ConsoleApplication\bin\Debug\net5.0\HepsiBurada.MarsRover.Core.dll
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.ConsoleApplication\bin\Debug\net5.0\HepsiBurada.MarsRover.Business.pdb
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.ConsoleApplication\bin\Debug\net5.0\HepsiBurada.MarsRover.Core.pdb
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.ConsoleApplication\obj\Debug\net5.0\HepsiBurada.MarsRover.ConsoleApplication.csproj.AssemblyReference.cache
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.ConsoleApplication\obj\Debug\net5.0\HepsiBurada.MarsRover.ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "HepsiBurada.MarsRover.ConsoleApplication/1.0.0": {
         "dependencies": {
+          "HepsiBurada.MarsRover.Business": "1.0.0",
           "HepsiBurada.MarsRover.Core": "1.0.0",
           "Microsoft.AspNetCore": "2.2.0"
         },
@@ -712,6 +713,14 @@
       },
       "System.Text.Encodings.Web/4.5.0": {},
       "System.Threading.Tasks.Extensions/4.5.1": {},
+      "HepsiBurada.MarsRover.Business/1.0.0": {
+        "dependencies": {
+          "HepsiBurada.MarsRover.Core": "1.0.0"
+        },
+        "runtime": {
+          "HepsiBurada.MarsRover.Business.dll": {}
+        }
+      },
       "HepsiBurada.MarsRover.Core/1.0.0": {
         "runtime": {
           "HepsiBurada.MarsRover.Core.dll": {}
@@ -1172,6 +1181,11 @@
       "sha512": "sha512-WSKUTtLhPR8gllzIWO2x6l4lmAIfbyMAiTlyXAis4QBDonXK4b4S6F8zGARX4/P8wH3DH+sLdhamCiHn+fTU1A==",
       "path": "system.threading.tasks.extensions/4.5.1",
       "hashPath": "system.threading.tasks.extensions.4.5.1.nupkg.sha512"
+    },
+    "HepsiBurada.MarsRover.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "HepsiBurada.MarsRover.Core/1.0.0": {
       "type": "project",

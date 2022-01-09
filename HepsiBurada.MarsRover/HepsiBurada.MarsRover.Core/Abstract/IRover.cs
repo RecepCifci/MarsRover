@@ -12,8 +12,5 @@ namespace HepsiBurada.MarsRover.Core.Abstract
         IPlateau Plateau { get; set; }
         IRoverPosition Position { get; set; }
         IRoverCommands RoverCommands { get; set; }
-        bool CheckPositionInputIsValid(string roverStr);
-        bool CheckCommandInputIsValid(string roverCommandStr);
-        void CheckRoverIsAtValidGridBoundaries();
     }
 }

@@ -870,6 +870,19 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
+      "HepsiBurada.MarsRover.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "HepsiBurada.MarsRover.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HepsiBurada.MarsRover.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HepsiBurada.MarsRover.Business.dll": {}
+        }
+      },
       "HepsiBurada.MarsRover.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -2045,6 +2058,11 @@
         "version.txt"
       ]
     },
+    "HepsiBurada.MarsRover.Business/1.0.0": {
+      "type": "project",
+      "path": "../HepsiBurada.MarsRover.Business/HepsiBurada.MarsRover.Business.csproj",
+      "msbuildProject": "../HepsiBurada.MarsRover.Business/HepsiBurada.MarsRover.Business.csproj"
+    },
     "HepsiBurada.MarsRover.Core/1.0.0": {
       "type": "project",
       "path": "../HepsiBurada.MarsRover.Core/HepsiBurada.MarsRover.Core.csproj",
@@ -2053,6 +2071,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "HepsiBurada.MarsRover.Business >= 1.0.0",
       "HepsiBurada.MarsRover.Core >= 1.0.0",
       "Microsoft.AspNetCore >= 2.2.0"
     ]
@@ -2084,6 +2103,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\Lenovo\\source\\repos\\GitHub\\MarsRover\\HepsiBurada.MarsRover\\HepsiBurada.MarsRover.Business\\HepsiBurada.MarsRover.Business.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\GitHub\\MarsRover\\HepsiBurada.MarsRover\\HepsiBurada.MarsRover.Business\\HepsiBurada.MarsRover.Business.csproj"
+            },
             "C:\\Users\\Lenovo\\source\\repos\\GitHub\\MarsRover\\HepsiBurada.MarsRover\\HepsiBurada.MarsRover.Core\\HepsiBurada.MarsRover.Core.csproj": {
               "projectPath": "C:\\Users\\Lenovo\\source\\repos\\GitHub\\MarsRover\\HepsiBurada.MarsRover\\HepsiBurada.MarsRover.Core\\HepsiBurada.MarsRover.Core.csproj"
             }

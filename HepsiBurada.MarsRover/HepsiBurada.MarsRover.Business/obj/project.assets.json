@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "HepsiBurada.MarsRover.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/HepsiBurada.MarsRover.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HepsiBurada.MarsRover.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "HepsiBurada.MarsRover.Core/1.0.0": {
+      "type": "project",
+      "path": "../HepsiBurada.MarsRover.Core/HepsiBurada.MarsRover.Core.csproj",
+      "msbuildProject": "../HepsiBurada.MarsRover.Core/HepsiBurada.MarsRover.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "HepsiBurada.MarsRover.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Lenovo\\source\\repos\\GitHub\\MarsRover\\HepsiBurada.MarsRover\\HepsiBurada.MarsRover.Core\\HepsiBurada.MarsRover.Core.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\GitHub\\MarsRover\\HepsiBurada.MarsRover\\HepsiBurada.MarsRover.Core\\HepsiBurada.MarsRover.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

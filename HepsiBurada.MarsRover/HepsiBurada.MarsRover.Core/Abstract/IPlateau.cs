@@ -10,7 +10,5 @@ namespace HepsiBurada.MarsRover.Core.Abstract
     {
         int CoordinateX { get; set; }
         int CoordinateY { get; set; }
-        List<IRover> RoverList { get; set; }
-        bool CheckInputIsValid(string platenauStr);
     }
 }

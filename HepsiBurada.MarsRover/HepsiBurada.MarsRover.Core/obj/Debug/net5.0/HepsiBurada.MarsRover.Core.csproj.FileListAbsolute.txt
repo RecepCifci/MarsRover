@@ -2,7 +2,6 @@ C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\bin\Debug\net5.0\HepsiBurada.MarsRover.Core.dll
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\bin\Debug\net5.0\ref\HepsiBurada.MarsRover.Core.dll
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\bin\Debug\net5.0\HepsiBurada.MarsRover.Core.pdb
-C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\obj\Debug\net5.0\HepsiBurada.MarsRover.Core.csproj.AssemblyReference.cache
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\obj\Debug\net5.0\HepsiBurada.MarsRover.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\obj\Debug\net5.0\HepsiBurada.MarsRover.Core.AssemblyInfoInputs.cache
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\obj\Debug\net5.0\HepsiBurada.MarsRover.Core.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\obj\Debug\net5.0\HepsiBurada.MarsRover.Core.dll
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\obj\Debug\net5.0\ref\HepsiBurada.MarsRover.Core.dll
 C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\obj\Debug\net5.0\HepsiBurada.MarsRover.Core.pdb
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Core\obj\Debug\net5.0\HepsiBurada.MarsRover.Core.csproj.AssemblyReference.cache

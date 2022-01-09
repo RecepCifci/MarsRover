@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\bin\Debug\net5.0\HepsiBurada.MarsRover.Business.deps.json
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\bin\Debug\net5.0\HepsiBurada.MarsRover.Business.dll
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\bin\Debug\net5.0\ref\HepsiBurada.MarsRover.Business.dll
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\bin\Debug\net5.0\HepsiBurada.MarsRover.Business.pdb
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\bin\Debug\net5.0\HepsiBurada.MarsRover.Core.dll
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\bin\Debug\net5.0\HepsiBurada.MarsRover.Core.pdb
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\obj\Debug\net5.0\HepsiBurada.MarsRover.Business.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\obj\Debug\net5.0\HepsiBurada.MarsRover.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\obj\Debug\net5.0\HepsiBurada.MarsRover.Business.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\obj\Debug\net5.0\HepsiBurada.MarsRover.Business.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\obj\Debug\net5.0\HepsiBurada.MarsRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\obj\Debug\net5.0\HepsiBurada.MarsRover.Business.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\obj\Debug\net5.0\HepsiBurada.MarsRover.Business.dll
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\obj\Debug\net5.0\ref\HepsiBurada.MarsRover.Business.dll
+C:\Users\Lenovo\source\repos\GitHub\MarsRover\HepsiBurada.MarsRover\HepsiBurada.MarsRover.Business\obj\Debug\net5.0\HepsiBurada.MarsRover.Business.pdb
